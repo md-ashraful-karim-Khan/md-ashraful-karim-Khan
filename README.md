@@ -1,5 +1,4 @@
-- :white_check_mark: 
-- :bangladesh:
+:bangladesh:
 
 
 - 👋 Hi, I’m @md-ashraful-karim-Khan
